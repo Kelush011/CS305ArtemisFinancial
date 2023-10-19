@@ -9,11 +9,11 @@
     
 3. What part of the vulnerability assessment was challenging or helpful to you?
 
-  The vulnerability assessment was actually very interesting to see. I enjoyed getting the assessment to run and identify all of the vulnerabilites that the program had. It was extremely interesting to see how the vulnerabilities could affect the program and what sort of attacks may occur due to those vulnerabilities. It was extremely useful in idenifying the vulnerabilities as well as understanding how those vulnerabilities could affect the program. It was challenging to get the assessment to run at first but after following my resources closely I was able to get it to run as well as understand it. 
+    The vulnerability assessment was actually very interesting to see. I enjoyed getting the assessment to run and identify all of the vulnerabilites that the program had. It was extremely interesting to see how the vulnerabilities could affect the program and what sort of attacks may occur due to those vulnerabilities. It was extremely useful in idenifying the vulnerabilities as well as understanding how those vulnerabilities could affect the program. It was challenging to get the assessment to run at first but after following my resources closely I was able to get it to run as well as understand it. 
 
 4. How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
-  
-  We learned how to implement Certificate Authorities which can provide more security for the program involved. It allows the devloper or a third party to create a key that must be applied to tranfer data securely. I think that in the future I would continue to use the dependency check tool to find the vulnerabilities of any java libraries that I am using. It will also provide me with the information on what needs to be updated to the newest version or what needs to be removed and replaced altogether. Knowing this information can help the mitigation to run more smoothly as well as provide me with where I should start first. 
+
+   We learned how to implement Certificate Authorities which can provide more security for the program involved. It allows the devloper or a third party to create a key that must be applied to tranfer data securely. I think that in the future I would continue to use the dependency check tool to find the vulnerabilities of any java libraries that I am using. It will also provide me with the information on what needs to be updated to the newest version or what needs to be removed and replaced altogether. Knowing this information can help the mitigation to run more smoothly as well as provide me with where I should start first. 
   
 5. How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
